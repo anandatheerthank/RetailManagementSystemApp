@@ -1,0 +1,663 @@
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\testhost.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\testhost.exe
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\appsettings.Development.json
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\appsettings.json
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\NUnit3.TestAdapter.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\NUnit3.TestAdapter.pdb
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\nunit.engine.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\nunit.engine.api.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\nunit.engine.core.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\testcentric.engine.metadata.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\RetailManagementSystem.exe
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\RetailManagementSystem.deps.json
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\RetailManagementSystem.runtimeconfig.json
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\RetailManagementSystem.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\RetailManagementSystem.pdb
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\Azure.Core.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\Azure.Identity.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\Humanizer.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\Microsoft.TestPlatform.CoreUtilities.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\Microsoft.TestPlatform.Utilities.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\nunit.framework.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\nunit.framework.legacy.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\RestSharp.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\System.CodeDom.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\System.Memory.Data.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\obj\Debug\net8.0\RetailManagementSystem.csproj.AssemblyReference.cache
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\obj\Debug\net8.0\RetailManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\obj\Debug\net8.0\RetailManagementSystem.AssemblyInfoInputs.cache
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\obj\Debug\net8.0\RetailManagementSystem.AssemblyInfo.cs
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\obj\Debug\net8.0\RetailManagementSystem.csproj.CoreCompileInputs.cache
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\obj\Debug\net8.0\RetailManagementSystem.MvcApplicationPartsAssemblyInfo.cs
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\obj\Debug\net8.0\RetailManagementSystem.MvcApplicationPartsAssemblyInfo.cache
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\obj\Debug\net8.0\staticwebassets.build.json
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\obj\Debug\net8.0\staticwebassets.development.json
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\obj\Debug\net8.0\staticwebassets\msbuild.RetailManagementSystem.Microsoft.AspNetCore.StaticWebAssets.props
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\obj\Debug\net8.0\staticwebassets\msbuild.build.RetailManagementSystem.props
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.RetailManagementSystem.props
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.RetailManagementSystem.props
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\obj\Debug\net8.0\staticwebassets.pack.json
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\obj\Debug\net8.0\scopedcss\bundle\RetailManagementSystem.styles.css
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\obj\Debug\net8.0\RetailMa.F5D03C9E.Up2Date
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\obj\Debug\net8.0\RetailManagementSystem.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\obj\Debug\net8.0\refint\RetailManagementSystem.dll
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\obj\Debug\net8.0\RetailManagementSystem.pdb
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\obj\Debug\net8.0\RetailManagementSystem.genruntimeconfig.cache
+D:\OFFICE\Projects\UAT\RetailManagementSystem\RetailManagementSystem\obj\Debug\net8.0\ref\RetailManagementSystem.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\testhost.exe
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\testhost.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\appsettings.json
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\NUnit3.TestAdapter.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\NUnit3.TestAdapter.pdb
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\nunit.engine.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\nunit.engine.api.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\nunit.engine.core.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\testcentric.engine.metadata.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\RetailManagementSystem.exe
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\RetailManagementSystem.deps.json
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\RetailManagementSystem.runtimeconfig.json
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\RetailManagementSystem.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\RetailManagementSystem.pdb
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\Humanizer.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\nunit.framework.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\nunit.framework.legacy.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\RestSharp.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\obj\Debug\net8.0\RetailManagementSystem.csproj.AssemblyReference.cache
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\obj\Debug\net8.0\RetailManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\obj\Debug\net8.0\RetailManagementSystem.AssemblyInfoInputs.cache
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\obj\Debug\net8.0\RetailManagementSystem.AssemblyInfo.cs
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\obj\Debug\net8.0\RetailManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\obj\Debug\net8.0\RetailManagementSystem.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\obj\Debug\net8.0\RetailManagementSystem.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\obj\Debug\net8.0\staticwebassets\msbuild.RetailManagementSystem.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\obj\Debug\net8.0\staticwebassets\msbuild.build.RetailManagementSystem.props
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.RetailManagementSystem.props
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.RetailManagementSystem.props
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\obj\Debug\net8.0\scopedcss\bundle\RetailManagementSystem.styles.css
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\obj\Debug\net8.0\RetailMa.F5D03C9E.Up2Date
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\obj\Debug\net8.0\RetailManagementSystem.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\obj\Debug\net8.0\refint\RetailManagementSystem.dll
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\obj\Debug\net8.0\RetailManagementSystem.pdb
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\obj\Debug\net8.0\RetailManagementSystem.genruntimeconfig.cache
+C:\Users\AnandRajan\Downloads\RetailManagementSystem 1 (1)\RetailManagementSystem\obj\Debug\net8.0\ref\RetailManagementSystem.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\testhost.exe
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\testhost.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\appsettings.Development.json
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\appsettings.json
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\NUnit3.TestAdapter.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\NUnit3.TestAdapter.pdb
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\nunit.engine.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\nunit.engine.api.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\nunit.engine.core.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\testcentric.engine.metadata.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\RetailManagementSystem.exe
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\RetailManagementSystem.deps.json
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\RetailManagementSystem.runtimeconfig.json
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\RetailManagementSystem.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\RetailManagementSystem.pdb
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\Azure.Core.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\Azure.Identity.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\Humanizer.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\Microsoft.TestPlatform.CoreUtilities.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\Microsoft.TestPlatform.Utilities.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\nunit.framework.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\nunit.framework.legacy.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\RestSharp.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\System.CodeDom.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\obj\Debug\net8.0\RetailManagementSystem.csproj.AssemblyReference.cache
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\obj\Debug\net8.0\RetailManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\obj\Debug\net8.0\RetailManagementSystem.AssemblyInfoInputs.cache
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\obj\Debug\net8.0\RetailManagementSystem.AssemblyInfo.cs
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\obj\Debug\net8.0\RetailManagementSystem.csproj.CoreCompileInputs.cache
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\obj\Debug\net8.0\RetailManagementSystem.MvcApplicationPartsAssemblyInfo.cs
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\obj\Debug\net8.0\RetailManagementSystem.MvcApplicationPartsAssemblyInfo.cache
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\obj\Debug\net8.0\staticwebassets.build.json
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\obj\Debug\net8.0\staticwebassets.development.json
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\obj\Debug\net8.0\staticwebassets\msbuild.RetailManagementSystem.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\obj\Debug\net8.0\staticwebassets\msbuild.build.RetailManagementSystem.props
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.RetailManagementSystem.props
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.RetailManagementSystem.props
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\obj\Debug\net8.0\scopedcss\bundle\RetailManagementSystem.styles.css
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\obj\Debug\net8.0\RetailMa.F5D03C9E.Up2Date
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\obj\Debug\net8.0\RetailManagementSystem.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\obj\Debug\net8.0\refint\RetailManagementSystem.dll
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\obj\Debug\net8.0\RetailManagementSystem.pdb
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\obj\Debug\net8.0\RetailManagementSystem.genruntimeconfig.cache
+D:\Source New\RetailManagementSystem 1 (1)\RetailManagementSystem\obj\Debug\net8.0\ref\RetailManagementSystem.dll
